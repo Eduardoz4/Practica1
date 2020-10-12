@@ -1,6 +1,6 @@
-Nombre:Eduardo Morales 
+﻿Nombre:Eduardo Morales 
 Edad: 19 Años 
 Juegos Actuales:Fortnite 
 Juegos Favoritos:The last of us 
-Carrera: 
-Especialidad:
+Carrera: Ingenieria en computacion 
+Especialidad:Desarrollo de Software 
