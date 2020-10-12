@@ -4,5 +4,5 @@ Juegos Actuales:Fortnite
 Juegos Favoritos:The last of us 
 Carrera: Ingenieria en computacion 
 Especialidad:Desarrollo de Software 
-Materia: 
-Semestre:
+Materia:Fundamentos de programacion 
+Semestre:Tercer Semestre 
